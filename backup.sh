@@ -1,4 +1,5 @@
 #!/bin/bash
+#MySQL Backup Scripts
 backupdir=/data/mysql/backup
 user=root
 port=3306
